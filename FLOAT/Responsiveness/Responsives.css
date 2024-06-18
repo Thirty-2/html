@@ -1,0 +1,21 @@
+* 
+{ margin: 0; padding: 0; }
+
+#Navbar ul 
+{ position: sticky; top: 0; width: 100%; border: 1px solid #e7e7e7; background-color: #f3f3f3; list-style: none; overflow: hidden;  }
+
+#Navbar ul li 
+{ float: left; display: inline; border-right: 1px solid #000; }
+
+#Navbar ul li:last-child
+{ border-right: none; }
+
+#Navbar ul li a 
+{ color: #666; display: block; color: white; text-align: center;  padding: 14px 16px; background-color: #ddd; text-decoration: none; }
+
+#Navbar ul li a:hover 
+{ background-color: #111; }
+
+#Navbar ul li .Active 
+{ background-color: #333; }
+

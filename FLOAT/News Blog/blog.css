@@ -1,0 +1,53 @@
+* { margin: 0; padding: 0; background-color: #333; border-radius: 30px; }
+
+
+
+/* headings */
+H1 
+{ background-color: black; color: #fff; font-size: 150px; text-align: center; padding: 12px;}
+
+H2 
+{ margin-top: 32px; padding: 8px; border-radius: 12px; color: #fff; background-color: #5f5c5c; }
+
+
+/* Navigation */
+#Navigation 
+{ width: 299px; padding: 12px;  font-size: 20px; float: left; overflow: hidden;}
+
+.Nav a 
+{ color: #fff; text-decoration: none; }
+
+.Nav a:hover 
+{ color: rgb(102, 102, 221);  transition: .4s;}
+
+ hr 
+ { padding: .4px; } 
+
+
+
+/* Main-body */
+#Container 
+{  max-width: 900px; margin-left: 500px; text-align: center; }
+
+.Article { background: #404040; } 
+
+#Main-body 
+{  padding-top: 37px;  color: #fff; }
+
+.Topic 
+{ font-size: 37px; color: black; }
+
+.bg-grey 
+{ color: #b7b5b5; }
+
+.Img 
+{ width: 400px ; }
+
+
+/* Button */
+#Main-body .Btn 
+{  background: rgb(177, 174, 174); padding: 10px; border-radius: 12px; text-decoration: none; color: black;}
+
+#Main-body .Btn:hover 
+{ background: black; color: white; transition: .7s;}
+

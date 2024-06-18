@@ -1,0 +1,49 @@
+* { margin: 0; padding: 0;}
+
+body { background: url(img/body.jpg) no-repeat; background-size: cover;}
+
+
+h3 { font: 2rem sans-serif; text-align: center; }
+
+/* Welcome */ 
+
+#Categories { margin-top: 12px; color: #000000; padding: 20px; }
+
+nav p a {  display: block; text-decoration: none; font-size: 22px; background: #444; color: #fff; padding: 14px 0; border-radius: 45%; width: 200px; }
+
+#Categories nav p a { margin: auto; }
+
+#Categories nav p a:hover { background-color: #fff; color: black; transition: .6s;}
+
+#Mid { text-align: center; margin: 270px; }
+
+h1.Ct-light {  color: #060606; font-size: 200px; }
+
+h3.Ct-light { color: #000000; font: 2rem sans-serif; text-align: center; }
+
+
+
+
+/* Fruit */
+
+h2.Ct-light a { text-decoration: none; color: #444; font-size: 100px; text-align: center; }
+
+#Main-body  { text-align: center; font-size: 12px; }
+
+#Pros { font-size: 30px; text-align: center; background: #746767; border-radius: 12px; width: 500px; margin: auto; padding: 20px;}
+
+#Pros ul p { background-color: #444; color: #fff; }
+
+#Main-body .Img { width: 300px; height: 200px; margin-top: 89px; border-radius: 50px; }
+
+.Main-text { font-size: 30px; }
+
+
+
+
+
+
+/* footer */
+.clr { clear: both; }
+
+#Main-footer { margin: auto;   text-align: center; background: #0000008b; color: #fff; padding: 15px; ; }

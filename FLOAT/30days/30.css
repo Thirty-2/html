@@ -1,0 +1,157 @@
+/* body{
+    font-family: sans-serif;
+}
+li{
+    display: inline;
+    padding-right: 10px;
+}
+
+ul a{
+   text-decoration: none; 
+   color: darkblue;
+}
+
+ul a:hover {
+    text-decoration: underline;
+    color: aqua;
+} */
+
+
+
+/* form li{
+    list-style: none;
+    margin-bottom: 20px;
+}
+label{
+    display: block;
+    cursor: pointer;
+}
+form ul{
+    padding-left: 0px;
+}
+
+textarea{
+    width: 400px;
+    height: 200px;
+}
+
+body{
+    background: grey;
+    margin: 0%;
+}
+
+h1{
+    background: url(pic.jpg) no-repeat;
+    display: inline;
+    text-indent: 10px;
+    font-size: 120px;
+    text-align: center;
+    margin-top: 50px;
+    font-family: sans-serif;
+    letter-spacing: 5px;
+    color: yellow;
+    text-transform: uppercase;
+    text-shadow: 0 3px 0 red, 2px 4px 1px blue;
+    
+}
+
+.wrap{
+    width: 800px;
+height: 1000px;
+margin: auto;
+background-color: blue;
+position: relative;
+top: 50px;
+}
+.box{
+    width: 70px;
+    height: 70px;
+    margin: auto;
+    background-color: red;
+    position: absolute;
+    left: 330px;  top: 80px;
+   
+} */
+
+
+
+/* body{
+    width: 700px;
+    margin: 20px auto;
+    font-family: sans-serif;
+}
+
+h2{font-size: 39px; line-height: 43px; letter-spacing: -1px;}
+
+article img{
+    float: left;
+    margin-right: 30px;
+    width: 250px;
+    height: 170px;
+}
+.preview{
+    float: right;
+    width: 420px;
+}
+article h2{font-size: 39px;
+    line-height: 43px; margin-bottom: 0;}
+
+a{color: #276056; font-size: 14px;}
+
+a:hover{color: black;}
+
+p{font-size: 14px; line-height: 21px;}
+
+.meta a, .post-info{font-style: italic;
+    font-size: 14px;}
+
+.meta{padding-left: 0; margin: 0 0 8px; }
+
+.meta li:after{content: '\\';    
+    padding: 0 2px;
+    color: #999;}
+
+.meta li:last-child:after{content: '';}
+
+article .Continue{float: right;}
+
+.Continue:after{content: ')';}
+.Continue:before{content: '(';}
+
+.meta li{display: inline;}
+
+article h2{margin-top: 0;}
+
+.post-info{background: #f3f3f3; color: #999; padding: 3px; float: left;}
+
+.post-info a{color: #999;text-decoration: none;}
+
+.body{clear: both; color: #575757;} */
+
+
+
+
+
+/* =header */
+
+/* header { overflow: hidden;}
+
+header h1{ background: url();  margin: 10px 10px; float:left;} */
+
+
+/* =navigation */
+
+/* nav{ float: right;}
+
+nav li{ display: inline;} */
+
+/* =banner */
+
+/* .banner10{ background: black no-repeat; position: relative; top: 45px; width: 1000px; height: 231px;}
+
+.banner10 p{ color: white; position: relative; top: 50px; float: left;}
+
+.grid_2{ background: grey; height: 231px; position: relative; left: 1100px; position: relative; bottom: 186px;} */
+
+
+
